@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -76,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -87,6 +94,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "README.md",
     "Шаблоны/Untitled.md",
     "Шаблоны/Комментарий.md",
     "Авторы/Untitled.md",
@@ -95,7 +103,6 @@
     "Шаблоны/Ключевое слово.md",
     "Шаблоны/Автор.md",
     "Ключевые слова/Благо.md",
-    "Авторы/Платон.md",
-    "Направления/Платонизм.md"
+    "Авторы/Платон.md"
   ]
 }
