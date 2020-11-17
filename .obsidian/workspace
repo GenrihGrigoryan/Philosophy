@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "ba89e3377842c4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9139a41a6765745",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb802dbf8b6d61a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "51dab49651e88198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c62498e733d350",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8384984de486a2fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c570312cdd889a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "96afe41393da5ebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46e1178a14d1dc5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "5750e7e57c078aef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "19fed29a05e2e3c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Шаблоны/Untitled.md",
+    "Шаблоны/Комментарий.md",
+    "Авторы/Untitled.md",
+    "Шаблоны/Произведение.md",
+    "Шаблоны/Фрагмент.md",
+    "Шаблоны/Ключевое слово.md",
+    "Шаблоны/Автор.md",
+    "Ключевые слова/Благо.md",
+    "Авторы/Платон.md",
+    "Направления/Платонизм.md"
+  ]
+}
