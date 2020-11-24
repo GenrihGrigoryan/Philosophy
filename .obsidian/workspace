@@ -4,49 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9139a41a6765745",
+        "id": "e2d2e14a6de6b572",
         "type": "leaf",
-        "dimension": 40.833333333333336,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "index.md",
             "mode": "source"
           }
-        },
-        "group": "469f155fb6216f06"
-      },
-      {
-        "id": "c09e909b6174e040",
-        "type": "leaf",
-        "dimension": 59.16666666666666,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "README.md",
-            "options": {
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.7112793834805236
-            }
-          }
-        },
-        "group": "469f155fb6216f06"
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "index",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -97,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -115,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           }
@@ -127,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
+    "navigation.md",
+    "Философское Дерево/Фрагменты/Вопрос о справедливости.md",
+    "Untitled.md",
     "README.md",
-    "Сообщество/Эссе/Untitled.md",
+    "Сообщество/Комментарии/index.md",
     "Сообщество/Комментарии/Untitled.md",
-    "Сообщество/Дискуссии/Untitled.md",
-    "Инструменты/Шаблоны/Дискуссия.md",
-    "Инструменты/Шаблоны/Год.md",
-    "Инструменты/Шаблоны/Автор.md",
-    "Инструменты/Шаблоны/Untitled.md",
-    "Философское Дерево/Хронология/Года/-544.md",
-    "Философское Дерево/Фрагменты/Вопрос о справедливости.md"
+    "Сообщество/Комментарии/К вопросу о справедливости.md",
+    "Сообщество/Участники Сообщества/Генрих.md",
+    "Сообщество/Эссе/Пример Эссе.md"
   ]
 }
