@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "navigation.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "navigation.md"
               }
             }
           }
@@ -104,10 +104,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
-    "README.md",
-    "Untitled.md",
     "navigation.md",
+    "README.md",
+    "index.md",
+    "Untitled.md",
     "Философское Дерево/Фрагменты/Вопрос о справедливости.md",
     "Сообщество/Комментарии/index.md",
     "Сообщество/Комментарии/Untitled.md",

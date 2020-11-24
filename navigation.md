@@ -1,4 +1,4 @@
-# Your wiki name
+# Дерево Познания
 
 [Home](README.md)
 [About](about.md)
