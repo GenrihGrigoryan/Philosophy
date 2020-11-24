@@ -1,6 +1,5 @@
 # Дерево Познания
 
-[Home](README.md)
-[About](about.md)
-[Download](download.md)
+[Описание](README.md)
+[Ключевые слова](Ключевые слова.md)
 [gimmick:themechooser](Тема)

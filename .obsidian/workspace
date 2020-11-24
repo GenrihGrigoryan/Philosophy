@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Ключевые слова.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Ключевые слова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Ключевые слова.md"
               }
             }
           }
@@ -104,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
+    "Ключевые слова.md",
     "navigation.md",
-    "index.md",
+    "README.md",
     "Untitled.md",
+    "index.md",
     "Философское Дерево/Фрагменты/Вопрос о справедливости.md",
     "Сообщество/Комментарии/index.md",
     "Сообщество/Комментарии/Untitled.md",
     "Сообщество/Комментарии/К вопросу о справедливости.md",
-    "Сообщество/Участники Сообщества/Генрих.md",
-    "Сообщество/Эссе/Пример Эссе.md"
+    "Сообщество/Участники Сообщества/Генрих.md"
   ]
 }
